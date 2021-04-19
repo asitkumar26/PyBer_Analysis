@@ -22,13 +22,13 @@
        - For Rural cities, fares have been below $500 all the weeks. 
 
 
-![Fare Patterns](/Resources/Fare-patterns-citytype-wise.png)
+![Fare Patterns](/Resources/Fares-variations-weekly.png)
 
 ## PyBer Analysis Summary:
-        - In case of Rural cities, increase the number of drivers so that average share per ride becomes less and more people can afford PyBer ridesharing.
-        - There is more potential on ride sharing demand in Urban cities, so PyBer can think about expanding in Urban cities.
+        - In case of Rural cities, there is a need to increase the number of drivers so that average share per ride can become less and more people can afford PyBer ridesharing.
+        - Looks like a demand for ride sharing is high in Urban cities, so PyBer can think about expanding in Urban cities.
         - More advertisements required in Urban cities so that number of rides can increase.
-        - Take steps to improvise the Average fare per driver in urban cities by keeping the ratio of Number of rides per driver better. Otherwise drivers will leave the PyBer. 
+        - Take steps to improve the average fare per driver in urban cities by keeping the ratio of Number of rides per driver better. Otherwise drivers will leave the PyBer. 
 
 
 
