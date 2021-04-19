@@ -13,7 +13,7 @@
        - In Urban cities, total rides and total fares is maximum , but ratio of no of rides/driver is the least among of all city types.
          Average fare per driver is the least in urban cities compared to all city types.
 
-![Ride Patterns](/Resources/ride-patterns-citytype-wise.png)
+https://github.com/asitkumar26/PyBer_Analysis/blob/main/Resources/Fares-variations-weekly.PNG
 
 ### Weekly/Monthly visual view of total fares for different city type:
        - During the weeks of April, ride fares for Urban city type consitently stayed high relatively.
