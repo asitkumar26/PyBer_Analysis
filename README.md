@@ -13,7 +13,7 @@
        - In Urban cities, total rides and total fares is maximum , but ratio of no of rides/driver is the least among of all city types.
          Average fare per driver is the least in urban cities compared to all city types.
 
-https://github.com/asitkumar26/PyBer_Analysis/blob/main/Resources/Fares-variations-weekly.PNG
+https://github.com/asitkumar26/PyBer_Analysis/blob/main/Resources/ride-patterns-citytype-wise.PNG
 
 ### Weekly/Monthly visual view of total fares for different city type:
        - During the weeks of April, ride fares for Urban city type consitently stayed high relatively.
@@ -22,7 +22,7 @@ https://github.com/asitkumar26/PyBer_Analysis/blob/main/Resources/Fares-variatio
        - For Rural cities, fares have been below $500 all the weeks. 
 
 
-![Fare Patterns](/Resources/Fares-variations-weekly.png)
+https://github.com/asitkumar26/PyBer_Analysis/blob/main/Resources/Fares-variations-weekly.PNG
 
 ## PyBer Analysis Summary:
         - In case of Rural cities, there is a need to increase the number of drivers so that average share per ride can become less and more people can afford PyBer ridesharing.
